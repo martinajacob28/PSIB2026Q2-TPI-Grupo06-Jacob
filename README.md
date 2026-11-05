@@ -22,6 +22,8 @@ Pipeline en Python que estima el **ángulo de Cobb** en radiografías AP de colu
 | `cobb_pipeline.py` | Todas las etapas del procesamiento como funciones (ROI, realce, niveles vertebrales, eje, platillos, control de calidad, vértebras límite, Cobb), la lectura de las anotaciones de referencia, el emparejamiento de curvas y las métricas. |
 | `visualizacion.py` | Funciones que generan las figuras de cada etapa y del análisis de resultados. |
 | `resultados/` | CSV generados por el notebook (métricas, resultados por curva y por imagen, matriz de confusión). |
+| `exploratorio/` | Versión de trabajo original del notebook (Colab), previa a la reorganización. |
+| `docs/` | Informe (PDF y Word) y presentación de la defensa. |
 | `requirements.txt` | Dependencias. |
 
 ## Instalación
