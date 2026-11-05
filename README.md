@@ -23,7 +23,6 @@ Pipeline en Python que estima el **ángulo de Cobb** en radiografías AP de colu
 | `visualizacion.py` | Funciones que generan las figuras de cada etapa y del análisis de resultados. |
 | `resultados/` | CSV generados por el notebook (métricas, resultados por curva y por imagen, matriz de confusión). |
 | `exploratorio/` | Versión de trabajo original del notebook (Colab), previa a la reorganización. |
-| `docs/` | Informe (PDF y Word) y presentación de la defensa. |
 | `requirements.txt` | Dependencias. |
 
 ## Instalación
