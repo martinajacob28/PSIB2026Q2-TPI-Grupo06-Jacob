@@ -81,6 +81,19 @@ La sección 4 del notebook tiene una interfaz con `ipywidgets`: se elige una rad
 7. **Vértebras límite:** perfil angular (media circular + Savitzky-Golay) y extremos consecutivos de signo opuesto.
 8. **Cobb y gravedad:** menor ángulo entre el platillo superior de la vértebra límite superior y el inferior de la vértebra límite inferior.
 
+## Historial del desarrollo
+
+El trabajo se desarrolló inicialmente en Google Colab, de forma iterativa, en un único notebook. En él se exploraron el preprocesamiento (Gaussiano, CLAHE), la localización de la columna, la detección de niveles vertebrales, el ajuste de platillos (primero con la transformada de Hough, descartada por las falsas detecciones en las costillas) y el cálculo del ángulo de Cobb. La última versión de esa etapa se conserva en `exploratorio/PSIB2026Q2_TPI_Jacob_v14_exploratorio.ipynb`.
+
+Para la entrega, ese código se reorganizó en el repositorio:
+
+1. el pipeline se extrajo a funciones en `cobb_pipeline.py`, verificando que reprodujera exactamente los resultados del notebook de Colab;
+2. las figuras se separaron en `visualizacion.py`;
+3. el notebook principal se reordenó, se le agregó la interfaz interactiva y se amplió el análisis de errores;
+4. se volvió a ejecutar la evaluación completa sobre las 98 radiografías (`resultados/`).
+
+Por eso la mayor parte del historial de commits corresponde a esta etapa final de organización. El proceso exploratorio previo está documentado en el notebook de `exploratorio/`.
+
 ## Referencias
 
 - Hong, A. et al. (2017). Surface Topography Classification Trees for Assessing Severity and Monitoring Progression in Adolescent Idiopathic Scoliosis. *Spine*, 42(13), E781–E787.
