@@ -1,0 +1,262 @@
+archivo,curva_automatica,limite_superior_auto,limite_inferior_auto,cobb_automatico,gravedad_automatica,curva_referencia,limite_superior_ref,limite_inferior_ref,cobb_referencia,gravedad_referencia,error_absoluto,superposicion_limites,coincide_gravedad,estado_curva,conjunto
+01-July-2019-1.jpg,3.0,11.0,17.0,24.478688054575457,Leve,3.0,12.0,17.0,24.39863643136306,Leve,0.08005162321239823,0.8571428571428571,True,Emparejada,Validación
+01-July-2019-1.jpg,2.0,7.0,11.0,24.59587884279204,Leve,2.0,7.0,12.0,20.291235200875605,Leve,4.304643641916435,0.8333333333333334,True,Emparejada,Validación
+01-July-2019-1.jpg,1.0,3.0,7.0,3.17980167884623,Inferior al umbral de 10°,1.0,1.0,4.0,7.939667263131058,Inferior al umbral de 10°,4.759865584284828,0.2857142857142857,True,Emparejada,Validación
+01-July-2019-10.jpg,2.0,6.0,12.0,41.72752431335557,Severa,2.0,8.0,15.0,16.7504993578699,Leve,24.977024955485675,0.5,False,Emparejada,Validación
+01-July-2019-10.jpg,1.0,1.0,6.0,16.268821953237648,Leve,1.0,4.0,8.0,7.274576276640868,Inferior al umbral de 10°,8.99424567659678,0.375,False,Emparejada,Validación
+01-July-2019-10.jpg,3.0,12.0,16.0,25.767454237713512,Moderada,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-11.jpg,1.0,1.0,7.0,20.324464589948093,Leve,1.0,1.0,7.0,15.8491251806546,Leve,4.475339409293493,1.0,True,Emparejada,Calibración
+01-July-2019-11.jpg,2.0,10.0,12.0,18.87674644956746,Leve,2.0,7.0,13.0,23.082036596831987,Leve,4.205290147264527,0.42857142857142855,True,Emparejada,Calibración
+01-July-2019-11.jpg,,,,,,3.0,13.0,17.0,7.257833575248751,Inferior al umbral de 10°,,,,Referencia no detectada,Calibración
+01-July-2019-12.jpg,2.0,8.0,12.0,8.68209381144396,Inferior al umbral de 10°,2.0,8.0,12.0,8.309155869696017,Inferior al umbral de 10°,0.37293794174794215,1.0,True,Emparejada,Validación
+01-July-2019-12.jpg,3.0,12.0,16.0,29.231375883111774,Moderada,3.0,12.0,17.0,9.29440922418193,Inferior al umbral de 10°,19.936966658929844,0.8333333333333334,False,Emparejada,Validación
+01-July-2019-12.jpg,1.0,1.0,8.0,14.959260376974047,Leve,1.0,1.0,5.0,10.45118804052619,Leve,4.5080723364478565,0.625,True,Emparejada,Validación
+01-July-2019-13.jpg,1.0,4.0,10.0,19.54572495941018,Leve,1.0,5.0,10.0,34.871308685965275,Moderada,15.325583726555095,0.8571428571428571,False,Emparejada,Validación
+01-July-2019-13.jpg,2.0,10.0,17.0,29.5413065231168,Moderada,2.0,10.0,14.0,30.84866719334017,Moderada,1.307360670223371,0.625,True,Emparejada,Validación
+01-July-2019-14.jpg,3.0,13.0,17.0,1.4048998480430868,Inferior al umbral de 10°,2.0,12.0,17.0,38.31006463850386,Moderada,36.90516479046077,0.8333333333333334,False,Emparejada,Validación
+01-July-2019-14.jpg,2.0,5.0,13.0,30.094962178803424,Moderada,1.0,8.0,12.0,62.05134875615,Severa,31.956386577346574,0.5555555555555556,False,Emparejada,Validación
+01-July-2019-14.jpg,1.0,1.0,5.0,45.589327870008574,Severa,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-15.jpg,1.0,6.0,17.0,25.689201285945657,Moderada,1.0,11.0,14.0,38.997585050254685,Moderada,13.308383764309028,0.3333333333333333,True,Emparejada,Calibración
+01-July-2019-16.jpg,4.0,11.0,17.0,22.663545822400238,Leve,2.0,10.0,15.0,18.662203300919135,Leve,4.001342521481103,0.625,True,Emparejada,Validación
+01-July-2019-16.jpg,3.0,6.0,11.0,9.544349557981437,Inferior al umbral de 10°,1.0,4.0,10.0,18.757755965845547,Leve,9.21340640786411,0.625,False,Emparejada,Validación
+01-July-2019-16.jpg,1.0,1.0,3.0,0.6035699757433814,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-16.jpg,2.0,3.0,6.0,13.051288744830249,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-17.jpg,1.0,1.0,9.0,41.735171090571725,Severa,1.0,3.0,12.0,62.07166515194288,Severa,20.336494061371155,0.5833333333333334,True,Emparejada,Validación
+01-July-2019-17.jpg,2.0,9.0,17.0,36.9460847885306,Moderada,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-18.jpg,1.0,1.0,6.0,6.892315403923511,Inferior al umbral de 10°,1.0,1.0,6.0,15.639386476773932,Leve,8.74707107285042,1.0,False,Emparejada,Calibración
+01-July-2019-18.jpg,2.0,6.0,8.0,14.493184050623862,Leve,2.0,6.0,10.0,23.256968063657908,Leve,8.763784013034046,0.6,True,Emparejada,Calibración
+01-July-2019-19.jpg,1.0,1.0,17.0,28.59423814148813,Moderada,1.0,1.0,10.0,29.106279707289904,Moderada,0.5120415658017734,0.5882352941176471,True,Emparejada,Validación
+01-July-2019-19.jpg,,,,,,2.0,10.0,13.0,34.124312680056995,Moderada,,,,Referencia no detectada,Validación
+01-July-2019-19.jpg,,,,,,3.0,13.0,17.0,29.110161586036863,Moderada,,,,Referencia no detectada,Validación
+01-July-2019-2.jpg,2.0,13.0,17.0,13.20616437348692,Leve,3.0,12.0,17.0,25.244911233858055,Moderada,12.038746860371134,0.8333333333333334,False,Emparejada,Validación
+01-July-2019-2.jpg,1.0,3.0,13.0,14.280941555861373,Leve,2.0,5.0,12.0,16.685401646404518,Leve,2.404460090543145,0.7272727272727273,True,Emparejada,Validación
+01-July-2019-2.jpg,,,,,,1.0,1.0,5.0,9.115296734448352,Inferior al umbral de 10°,,,,Referencia no detectada,Validación
+01-July-2019-20.jpg,1.0,5.0,17.0,18.61256183160582,Leve,1.0,7.0,17.0,14.173067966954655,Leve,4.4394938646511655,0.8461538461538461,True,Emparejada,Validación
+01-July-2019-21.jpg,1.0,1.0,8.0,39.83541710220024,Moderada,1.0,1.0,13.0,24.636259230065264,Leve,15.199157872134975,0.6153846153846154,False,Emparejada,Validación
+01-July-2019-21.jpg,,,,,,2.0,13.0,17.0,18.116214729176903,Leve,,,,Referencia no detectada,Validación
+01-July-2019-22.jpg,1.0,2.0,9.0,20.76292065340822,Leve,1.0,3.0,11.0,48.02373289693935,Severa,27.26081224353113,0.7,False,Emparejada,Calibración
+01-July-2019-22.jpg,2.0,9.0,15.0,12.061360522290988,Leve,2.0,11.0,17.0,18.417360453329213,Leve,6.355999931038225,0.5555555555555556,True,Emparejada,Calibración
+01-July-2019-22.jpg,3.0,15.0,17.0,5.097971338207495,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Calibración
+01-July-2019-23.jpg,1.0,5.0,10.0,12.805296236153994,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-23.jpg,,,,,,1.0,13.0,17.0,6.5107760273174815,Inferior al umbral de 10°,,,,Referencia no detectada,Validación
+01-July-2019-24.jpg,1.0,1.0,11.0,8.599463569532064,Inferior al umbral de 10°,2.0,4.0,9.0,7.0542172256424704,Inferior al umbral de 10°,1.5452463438895938,0.5454545454545454,True,Emparejada,Calibración
+01-July-2019-24.jpg,,,,,,1.0,1.0,4.0,7.353434135297752,Inferior al umbral de 10°,,,,Referencia no detectada,Calibración
+01-July-2019-24.jpg,,,,,,3.0,9.0,15.0,14.57982174054705,Leve,,,,Referencia no detectada,Calibración
+01-July-2019-25.jpg,1.0,6.0,8.0,16.423232070844605,Leve,2.0,5.0,10.0,33.18895034269072,Moderada,16.76571827184611,0.5,False,Emparejada,Validación
+01-July-2019-25.jpg,2.0,13.0,17.0,5.133229153949436,Inferior al umbral de 10°,3.0,10.0,15.0,32.920272401707805,Moderada,27.78704324775837,0.375,False,Emparejada,Validación
+01-July-2019-25.jpg,,,,,,1.0,1.0,5.0,14.78684618526423,Leve,,,,Referencia no detectada,Validación
+01-July-2019-26.jpg,2.0,7.0,17.0,28.91733105799563,Moderada,1.0,7.0,15.0,11.806978183480933,Leve,17.110352874514696,0.8181818181818182,False,Emparejada,Validación
+01-July-2019-26.jpg,1.0,1.0,7.0,35.16058083626416,Moderada,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-27.jpg,3.0,14.0,17.0,3.428325213812923,Inferior al umbral de 10°,3.0,12.0,17.0,15.806594381688022,Leve,12.3782691678751,0.6666666666666666,False,Emparejada,Validación
+01-July-2019-27.jpg,2.0,5.0,14.0,16.942147160018244,Leve,2.0,8.0,12.0,16.762505715832475,Leve,0.17964144418576922,0.5,True,Emparejada,Validación
+01-July-2019-27.jpg,1.0,2.0,5.0,15.24224756868558,Leve,1.0,1.0,8.0,13.975366863905762,Leve,1.2668807047798172,0.5,True,Emparejada,Validación
+01-July-2019-28.jpg,3.0,13.0,17.0,20.161118720626867,Leve,3.0,13.0,17.0,22.081843801476946,Leve,1.9207250808500795,1.0,True,Emparejada,Validación
+01-July-2019-28.jpg,2.0,6.0,13.0,28.161070628178543,Moderada,2.0,5.0,13.0,30.82655270189552,Moderada,2.6654820737169764,0.8888888888888888,True,Emparejada,Validación
+01-July-2019-28.jpg,1.0,1.0,6.0,6.9238906307691295,Inferior al umbral de 10°,1.0,1.0,5.0,11.948701724178926,Leve,5.024811093409797,0.8333333333333334,False,Emparejada,Validación
+01-July-2019-29.jpg,1.0,6.0,12.0,13.723265742866547,Leve,1.0,5.0,12.0,37.19086835319688,Moderada,23.46760261033034,0.875,False,Emparejada,Validación
+01-July-2019-29.jpg,2.0,12.0,17.0,16.633718916180406,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-3.jpg,2.0,11.0,14.0,8.034774511156556,Inferior al umbral de 10°,2.0,12.0,17.0,27.057279563407253,Moderada,19.022505052250697,0.42857142857142855,False,Emparejada,Validación
+01-July-2019-3.jpg,1.0,5.0,8.0,20.617783116305528,Leve,1.0,1.0,12.0,7.09955155968385,Inferior al umbral de 10°,13.518231556621679,0.3333333333333333,False,Emparejada,Validación
+01-July-2019-30.jpg,1.0,4.0,10.0,44.87787054230357,Severa,1.0,5.0,13.0,19.670535954450266,Leve,25.207334587853303,0.6,False,Emparejada,Validación
+01-July-2019-30.jpg,2.0,10.0,17.0,49.094515306405874,Severa,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-31.jpg,1.0,5.0,12.0,14.371022931302065,Leve,1.0,4.0,12.0,20.878605306148685,Leve,6.507582374846621,0.8888888888888888,True,Emparejada,Validación
+01-July-2019-31.jpg,2.0,15.0,17.0,15.06346220532137,Leve,2.0,12.0,16.0,19.84339440099594,Leve,4.77993219567457,0.3333333333333333,True,Emparejada,Validación
+01-July-2019-32.jpg,3.0,11.0,15.0,7.1407085035713855,Inferior al umbral de 10°,1.0,8.0,14.0,8.749483556548586,Inferior al umbral de 10°,1.608775052977201,0.5,True,Emparejada,Validación
+01-July-2019-32.jpg,1.0,1.0,7.0,19.936251283307705,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-32.jpg,2.0,7.0,11.0,2.6069415910502993,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-32.jpg,4.0,15.0,17.0,13.260947574104184,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-33.jpg,2.0,9.0,17.0,30.706259868513378,Moderada,3.0,11.0,15.0,26.486169544254977,Moderada,4.2200903242584005,0.5555555555555556,True,Emparejada,Validación
+01-July-2019-33.jpg,1.0,1.0,9.0,18.473100511077078,Leve,1.0,1.0,5.0,14.063925949573697,Leve,4.409174561503381,0.5555555555555556,True,Emparejada,Validación
+01-July-2019-33.jpg,,,,,,2.0,5.0,11.0,14.712036444956244,Leve,,,,Referencia no detectada,Validación
+01-July-2019-34.jpg,2.0,5.0,17.0,12.609101872726214,Leve,1.0,5.0,11.0,15.014565364147764,Leve,2.40546349142155,0.5384615384615384,True,Emparejada,Validación
+01-July-2019-34.jpg,1.0,1.0,5.0,8.934228169386435,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-35.jpg,1.0,13.0,15.0,15.017940230721674,Leve,2.0,10.0,15.0,56.94902624858033,Severa,41.93108601785866,0.5,False,Emparejada,Validación
+01-July-2019-35.jpg,,,,,,1.0,5.0,10.0,72.76226918963977,Severa,,,,Referencia no detectada,Validación
+01-July-2019-36.jpg,2.0,5.0,11.0,13.713093262934521,Leve,2.0,5.0,11.0,23.372205464058606,Leve,9.659112201124085,1.0,True,Emparejada,Calibración
+01-July-2019-36.jpg,1.0,1.0,5.0,11.523972579678935,Leve,1.0,1.0,5.0,12.672805490212534,Leve,1.1488329105335993,1.0,True,Emparejada,Calibración
+01-July-2019-36.jpg,3.0,11.0,14.0,4.772893590751572,Inferior al umbral de 10°,3.0,11.0,16.0,36.022505919886925,Moderada,31.249612329135353,0.6666666666666666,False,Emparejada,Calibración
+01-July-2019-36.jpg,4.0,14.0,17.0,10.37792907174382,Leve,,,,,,,,,Automática sin referencia emparejada,Calibración
+01-July-2019-37.jpg,2.0,11.0,17.0,8.395294722050435,Inferior al umbral de 10°,4.0,13.0,17.0,12.603536011882781,Leve,4.208241289832346,0.7142857142857143,False,Emparejada,Calibración
+01-July-2019-37.jpg,1.0,3.0,11.0,17.773759112875155,Leve,2.0,5.0,10.0,8.955297322431337,Inferior al umbral de 10°,8.818461790443818,0.6666666666666666,False,Emparejada,Calibración
+01-July-2019-37.jpg,,,,,,1.0,1.0,5.0,12.816400187420118,Leve,,,,Referencia no detectada,Calibración
+01-July-2019-37.jpg,,,,,,3.0,10.0,13.0,8.737354285254854,Inferior al umbral de 10°,,,,Referencia no detectada,Calibración
+01-July-2019-38.jpg,1.0,5.0,13.0,6.545166625139048,Inferior al umbral de 10°,2.0,6.0,13.0,34.30740344361699,Moderada,27.762236818477945,0.8888888888888888,False,Emparejada,Calibración
+01-July-2019-38.jpg,,,,,,1.0,1.0,6.0,21.26966697654032,Leve,,,,Referencia no detectada,Calibración
+01-July-2019-38.jpg,,,,,,3.0,13.0,17.0,21.192826575144256,Leve,,,,Referencia no detectada,Calibración
+01-July-2019-39.jpg,3.0,9.0,14.0,0.8704734646920862,Inferior al umbral de 10°,2.0,10.0,17.0,11.554273077148915,Leve,10.683799612456829,0.5555555555555556,False,Emparejada,Validación
+01-July-2019-39.jpg,2.0,7.0,9.0,14.639168340104137,Leve,1.0,5.0,10.0,8.245570766708026,Inferior al umbral de 10°,6.393597573396111,0.5,False,Emparejada,Validación
+01-July-2019-39.jpg,1.0,4.0,7.0,12.852707205430614,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-39.jpg,4.0,15.0,17.0,20.139041601593835,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-4.jpg,3.0,11.0,17.0,18.800282774366273,Leve,3.0,11.0,16.0,15.408619705324991,Leve,3.3916630690412823,0.8571428571428571,True,Emparejada,Validación
+01-July-2019-4.jpg,1.0,1.0,8.0,7.486259210703476,Inferior al umbral de 10°,1.0,1.0,5.0,10.086877676368703,Leve,2.6006184656652263,0.625,False,Emparejada,Validación
+01-July-2019-4.jpg,2.0,9.0,11.0,0.7812826141990517,Inferior al umbral de 10°,2.0,7.0,11.0,9.047944996439748,Inferior al umbral de 10°,8.266662382240696,0.6,True,Emparejada,Validación
+01-July-2019-40.jpg,3.0,10.0,17.0,22.24161007107243,Leve,3.0,11.0,17.0,18.39721917034359,Leve,3.8443909007288397,0.875,True,Emparejada,Validación
+01-July-2019-40.jpg,1.0,1.0,4.0,23.890747879441648,Leve,1.0,1.0,6.0,10.532054192552467,Leve,13.35869368688918,0.6666666666666666,True,Emparejada,Validación
+01-July-2019-40.jpg,2.0,4.0,8.0,24.170086910177922,Leve,2.0,6.0,11.0,17.032300115384217,Leve,7.137786794793705,0.375,True,Emparejada,Validación
+01-July-2019-41.jpg,2.0,12.0,17.0,17.502191612783307,Leve,3.0,11.0,17.0,7.248410075603568,Inferior al umbral de 10°,10.253781537179739,0.8571428571428571,False,Emparejada,Validación
+01-July-2019-41.jpg,1.0,2.0,12.0,39.86314548497852,Moderada,2.0,5.0,11.0,18.71885283224425,Leve,21.14429265273427,0.6363636363636364,False,Emparejada,Validación
+01-July-2019-41.jpg,,,,,,1.0,1.0,5.0,18.688112563317958,Leve,,,,Referencia no detectada,Validación
+01-July-2019-42.jpg,2.0,6.0,13.0,35.86644967072968,Moderada,2.0,6.0,12.0,48.77030443905372,Severa,12.903854768324038,0.875,False,Emparejada,Validación
+01-July-2019-42.jpg,3.0,13.0,17.0,22.44752717919159,Leve,3.0,12.0,17.0,27.176652485926176,Moderada,4.729125306734588,0.8333333333333334,False,Emparejada,Validación
+01-July-2019-42.jpg,1.0,2.0,6.0,40.349689855876704,Severa,1.0,1.0,6.0,23.730340837297522,Leve,16.619349018579182,0.8333333333333334,False,Emparejada,Validación
+01-July-2019-43.jpg,1.0,5.0,11.0,5.086917411230484,Inferior al umbral de 10°,1.0,1.0,11.0,7.8397897942780554,Inferior al umbral de 10°,2.7528723830475714,0.6363636363636364,True,Emparejada,Validación
+01-July-2019-44.jpg,1.0,5.0,10.0,15.971899572100567,Leve,1.0,5.0,10.0,20.484986900845637,Leve,4.513087328745071,1.0,True,Emparejada,Validación
+01-July-2019-44.jpg,2.0,10.0,12.0,7.923994741988796,Inferior al umbral de 10°,2.0,10.0,15.0,14.304300911207164,Leve,6.380306169218368,0.5,False,Emparejada,Validación
+01-July-2019-45.jpg,2.0,3.0,10.0,16.257898175742916,Leve,1.0,4.0,12.0,28.921442986245584,Moderada,12.663544810502668,0.7,False,Emparejada,Calibración
+01-July-2019-45.jpg,3.0,10.0,17.0,33.10848904657273,Moderada,2.0,12.0,16.0,38.29109153501517,Moderada,5.182602488442441,0.625,True,Emparejada,Calibración
+01-July-2019-45.jpg,1.0,1.0,3.0,26.476075467551105,Moderada,,,,,,,,,Automática sin referencia emparejada,Calibración
+01-July-2019-46.jpg,2.0,8.0,15.0,25.048250944819927,Moderada,1.0,8.0,17.0,13.54325057324082,Leve,11.505000371579106,0.8,False,Emparejada,Validación
+01-July-2019-46.jpg,1.0,1.0,8.0,20.731660095583635,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-46.jpg,3.0,15.0,17.0,17.86205960657197,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-47.jpg,1.0,3.0,5.0,19.073910142755928,Leve,1.0,5.0,12.0,38.59023397169338,Moderada,19.516323828937452,0.1,False,Emparejada,Validación
+01-July-2019-48.jpg,2.0,5.0,12.0,10.939522220865697,Leve,1.0,4.0,14.0,25.508845250513374,Moderada,14.569323029647677,0.7272727272727273,False,Emparejada,Validación
+01-July-2019-48.jpg,1.0,1.0,5.0,9.665704757695485,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-48.jpg,3.0,12.0,17.0,4.40768755054277,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-49.jpg,3.0,14.0,17.0,10.37620785207504,Leve,3.0,11.0,17.0,32.32055456610898,Moderada,21.94434671403394,0.5714285714285714,False,Emparejada,Validación
+01-July-2019-49.jpg,2.0,8.0,14.0,8.984545199553885,Inferior al umbral de 10°,2.0,7.0,11.0,15.688880842746356,Leve,6.70433564319247,0.5,False,Emparejada,Validación
+01-July-2019-49.jpg,1.0,2.0,8.0,3.5091307265929643,Inferior al umbral de 10°,1.0,1.0,5.0,5.809106370997338,Inferior al umbral de 10°,2.2999756444043733,0.5,True,Emparejada,Validación
+01-July-2019-5.jpg,3.0,14.0,17.0,13.40432530574564,Leve,3.0,14.0,17.0,10.497508394925843,Leve,2.9068169108197974,1.0,True,Emparejada,Validación
+01-July-2019-5.jpg,1.0,1.0,5.0,27.991295487641075,Moderada,1.0,1.0,7.0,23.790498040844483,Leve,4.200797446796592,0.7142857142857143,False,Emparejada,Validación
+01-July-2019-5.jpg,2.0,5.0,11.0,1.5630110678322566,Inferior al umbral de 10°,2.0,7.0,14.0,29.114251267779302,Moderada,27.551240199947046,0.5,False,Emparejada,Validación
+01-July-2019-50.jpg,2.0,10.0,17.0,15.459479110410252,Leve,2.0,11.0,17.0,36.965950825894865,Moderada,21.506471715484615,0.875,False,Emparejada,Validación
+01-July-2019-50.jpg,1.0,3.0,10.0,21.92278016925532,Leve,1.0,1.0,11.0,19.211916432294043,Leve,2.710863736961276,0.7272727272727273,True,Emparejada,Validación
+01-July-2019-51.jpg,2.0,11.0,17.0,16.858019963452122,Leve,3.0,11.0,17.0,14.664406678611906,Leve,2.1936132848402163,1.0,True,Emparejada,Validación
+01-July-2019-51.jpg,1.0,1.0,11.0,20.350623375842083,Leve,2.0,5.0,11.0,26.363729048690132,Moderada,6.013105672848049,0.6363636363636364,False,Emparejada,Validación
+01-July-2019-51.jpg,,,,,,1.0,1.0,5.0,21.797091323617142,Leve,,,,Referencia no detectada,Validación
+01-July-2019-52.jpg,1.0,7.0,14.0,6.514602590905854,Inferior al umbral de 10°,3.0,10.0,15.0,3.189426437306141,Inferior al umbral de 10°,3.325176153599713,0.5555555555555556,True,Emparejada,Validación
+01-July-2019-52.jpg,2.0,14.0,17.0,7.785997050383729,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-52.jpg,,,,,,1.0,1.0,4.0,5.046589534722284,Inferior al umbral de 10°,,,,Referencia no detectada,Validación
+01-July-2019-52.jpg,,,,,,2.0,4.0,10.0,10.074400830541059,Leve,,,,Referencia no detectada,Validación
+01-July-2019-53.jpg,1.0,1.0,12.0,31.884537513844613,Moderada,2.0,6.0,13.0,38.7721627046576,Moderada,6.88762519081299,0.5384615384615384,True,Emparejada,Validación
+01-July-2019-53.jpg,2.0,12.0,17.0,14.021210828060134,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-53.jpg,,,,,,1.0,1.0,6.0,23.715063868324087,Leve,,,,Referencia no detectada,Validación
+01-July-2019-54.jpg,3.0,8.0,11.0,11.236017443252152,Leve,1.0,7.0,14.0,5.4812416197638925,Inferior al umbral de 10°,5.754775823488259,0.5,False,Emparejada,Validación
+01-July-2019-54.jpg,1.0,1.0,5.0,6.576542155655668,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-54.jpg,2.0,5.0,8.0,4.664174121764388,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-55.jpg,1.0,2.0,7.0,41.88136747964802,Severa,1.0,1.0,6.0,28.185863344191855,Moderada,13.695504135456165,0.7142857142857143,False,Emparejada,Validación
+01-July-2019-55.jpg,2.0,7.0,14.0,28.402602879987278,Moderada,3.0,10.0,15.0,33.81300937594173,Moderada,5.410406495954454,0.5555555555555556,True,Emparejada,Validación
+01-July-2019-55.jpg,,,,,,2.0,6.0,10.0,47.1450404600791,Severa,,,,Referencia no detectada,Validación
+01-July-2019-56.jpg,1.0,14.0,16.0,20.75074464617103,Leve,2.0,12.0,17.0,14.228289660950502,Leve,6.522454985220527,0.5,True,Emparejada,Validación
+01-July-2019-56.jpg,,,,,,1.0,1.0,7.0,12.754288739686311,Leve,,,,Referencia no detectada,Validación
+01-July-2019-57.jpg,1.0,9.0,17.0,17.618657224477044,Leve,2.0,12.0,17.0,12.38919335841847,Leve,5.229463866058573,0.6666666666666666,True,Emparejada,Calibración
+01-July-2019-57.jpg,,,,,,1.0,1.0,12.0,10.787062517742921,Leve,,,,Referencia no detectada,Calibración
+01-July-2019-58.jpg,3.0,13.0,17.0,30.843477125586347,Moderada,1.0,11.0,17.0,46.59916059969052,Severa,15.755683474104174,0.7142857142857143,False,Emparejada,Validación
+01-July-2019-58.jpg,1.0,1.0,5.0,10.832399831564217,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-58.jpg,2.0,5.0,13.0,33.33574729911402,Moderada,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-59.jpg,4.0,13.0,17.0,13.148613433261142,Leve,3.0,13.0,17.0,17.46843357801137,Leve,4.31982014475023,1.0,True,Emparejada,Validación
+01-July-2019-59.jpg,1.0,1.0,7.0,13.628485389176577,Leve,1.0,1.0,8.0,15.036790342361993,Leve,1.4083049531854162,0.875,True,Emparejada,Validación
+01-July-2019-59.jpg,3.0,9.0,13.0,12.432094137305455,Leve,2.0,8.0,13.0,16.298579321527516,Leve,3.8664851842220607,0.8333333333333334,True,Emparejada,Validación
+01-July-2019-59.jpg,2.0,7.0,9.0,7.965005706240172,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-6.jpg,1.0,1.0,7.0,25.375642594388783,Moderada,1.0,1.0,5.0,26.23116905674708,Moderada,0.8555264623582985,0.7142857142857143,True,Emparejada,Calibración
+01-July-2019-6.jpg,2.0,7.0,17.0,5.8252765689127735,Inferior al umbral de 10°,3.0,11.0,17.0,22.959671187813488,Leve,17.134394618900714,0.6363636363636364,False,Emparejada,Calibración
+01-July-2019-6.jpg,,,,,,2.0,5.0,11.0,38.98555984833788,Moderada,,,,Referencia no detectada,Calibración
+01-July-2019-60.jpg,1.0,7.0,13.0,8.11299704426428,Inferior al umbral de 10°,2.0,8.0,12.0,13.453890387529622,Leve,5.340893343265343,0.7142857142857143,False,Emparejada,Validación
+01-July-2019-60.jpg,2.0,13.0,16.0,9.578124076541396,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-60.jpg,,,,,,1.0,3.0,8.0,10.27932343767663,Leve,,,,Referencia no detectada,Validación
+01-July-2019-61.jpg,2.0,12.0,17.0,11.517552533482753,Leve,2.0,10.0,17.0,10.592714717018389,Leve,0.9248378164643647,0.75,True,Emparejada,Validación
+01-July-2019-61.jpg,1.0,6.0,12.0,21.71705551415383,Leve,1.0,5.0,10.0,17.55688821219451,Leve,4.160167301959319,0.625,True,Emparejada,Validación
+01-July-2019-62.jpg,2.0,11.0,17.0,10.330777336904232,Leve,3.0,11.0,16.0,23.18425950200049,Leve,12.853482165096258,0.8571428571428571,True,Emparejada,Validación
+01-July-2019-62.jpg,1.0,2.0,11.0,19.50228393758345,Leve,2.0,5.0,11.0,14.161728681069164,Leve,5.3405552565142855,0.7,True,Emparejada,Validación
+01-July-2019-62.jpg,,,,,,1.0,1.0,5.0,14.16580530045037,Leve,,,,Referencia no detectada,Validación
+01-July-2019-63.jpg,2.0,11.0,17.0,15.352555152167174,Leve,2.0,11.0,17.0,16.574429489926306,Leve,1.2218743377591323,1.0,True,Emparejada,Validación
+01-July-2019-63.jpg,1.0,2.0,11.0,24.959503413824468,Leve,1.0,5.0,11.0,31.76708401430992,Moderada,6.807580600485451,0.7,False,Emparejada,Validación
+01-July-2019-64.jpg,1.0,7.0,11.0,7.774798789215888,Inferior al umbral de 10°,1.0,6.0,11.0,34.803146046135076,Moderada,27.02834725691919,0.8333333333333334,False,Emparejada,Validación
+01-July-2019-65.jpg,4.0,12.0,17.0,1.8550002422306573,Inferior al umbral de 10°,2.0,12.0,17.0,8.707939355169863,Inferior al umbral de 10°,6.852939112939206,1.0,True,Emparejada,Validación
+01-July-2019-65.jpg,2.0,3.0,8.0,21.0944831295776,Leve,1.0,3.0,12.0,14.403531987375029,Leve,6.690951142202572,0.6,True,Emparejada,Validación
+01-July-2019-65.jpg,1.0,1.0,3.0,5.349379788518718,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-65.jpg,3.0,8.0,12.0,7.9510731583811065,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-66.jpg,3.0,10.0,14.0,19.18583453287874,Leve,2.0,12.0,17.0,6.868541227102801,Inferior al umbral de 10°,12.317293305775939,0.375,False,Emparejada,Calibración
+01-July-2019-66.jpg,2.0,3.0,6.0,12.439548528925672,Leve,1.0,4.0,12.0,10.501127493512712,Leve,1.9384210354129596,0.3,True,Emparejada,Calibración
+01-July-2019-66.jpg,1.0,1.0,3.0,19.23348389895955,Leve,,,,,,,,,Automática sin referencia emparejada,Calibración
+01-July-2019-67.jpg,3.0,13.0,17.0,11.682864177644491,Leve,2.0,11.0,16.0,12.486999487608102,Leve,0.8041353099636108,0.5714285714285714,True,Emparejada,Validación
+01-July-2019-67.jpg,2.0,7.0,13.0,16.06920872740104,Leve,1.0,5.0,11.0,14.31785455044381,Leve,1.7513541769572303,0.5555555555555556,True,Emparejada,Validación
+01-July-2019-67.jpg,1.0,1.0,7.0,44.99419300416152,Severa,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-68.jpg,2.0,12.0,17.0,20.511574776019394,Leve,2.0,12.0,17.0,13.24043007741341,Leve,7.271144698605983,1.0,True,Emparejada,Calibración
+01-July-2019-68.jpg,1.0,1.0,12.0,27.281433137612737,Moderada,1.0,4.0,12.0,16.53289284579384,Leve,10.748540291818898,0.75,False,Emparejada,Calibración
+01-July-2019-69.jpg,3.0,14.0,17.0,2.019545830027222,Inferior al umbral de 10°,3.0,12.0,16.0,17.064660742863264,Leve,15.045114912836041,0.5,False,Emparejada,Validación
+01-July-2019-69.jpg,1.0,6.0,8.0,8.014801401453274,Inferior al umbral de 10°,2.0,5.0,12.0,19.551545385085863,Leve,11.536743983632588,0.375,False,Emparejada,Validación
+01-July-2019-69.jpg,2.0,10.0,11.0,2.012907445100989,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-69.jpg,,,,,,1.0,1.0,5.0,12.227138871638346,Leve,,,,Referencia no detectada,Validación
+01-July-2019-7.jpg,2.0,10.0,17.0,35.03171491944307,Moderada,3.0,11.0,15.0,40.430884851643725,Severa,5.399169932200657,0.625,False,Emparejada,Validación
+01-July-2019-7.jpg,1.0,1.0,10.0,6.323391563238693,Inferior al umbral de 10°,2.0,5.0,11.0,17.454856627383418,Leve,11.131465064144724,0.5454545454545454,False,Emparejada,Validación
+01-July-2019-7.jpg,,,,,,1.0,1.0,5.0,7.273869648456449,Inferior al umbral de 10°,,,,Referencia no detectada,Validación
+01-July-2019-70.jpg,2.0,7.0,14.0,40.923212508758354,Severa,1.0,5.0,12.0,17.044137541508338,Leve,23.879074967250016,0.6,False,Emparejada,Calibración
+01-July-2019-70.jpg,1.0,1.0,7.0,18.779172690940943,Leve,,,,,,,,,Automática sin referencia emparejada,Calibración
+01-July-2019-70.jpg,,,,,,2.0,12.0,17.0,8.352830676073724,Inferior al umbral de 10°,,,,Referencia no detectada,Calibración
+01-July-2019-71.jpg,2.0,11.0,17.0,29.514202487415474,Moderada,3.0,12.0,17.0,19.290712799863115,Leve,10.223489687552359,0.8571428571428571,False,Emparejada,Validación
+01-July-2019-71.jpg,1.0,6.0,11.0,17.917213397260475,Leve,2.0,5.0,12.0,33.93722894985692,Moderada,16.020015552596448,0.75,False,Emparejada,Validación
+01-July-2019-71.jpg,,,,,,1.0,1.0,5.0,27.434003639820894,Moderada,,,,Referencia no detectada,Validación
+01-July-2019-72.jpg,1.0,1.0,8.0,10.954372530081262,Leve,1.0,1.0,13.0,19.010787575458806,Leve,8.056415045377545,0.6153846153846154,True,Emparejada,Validación
+01-July-2019-72.jpg,2.0,8.0,13.0,46.739966353449674,Severa,2.0,13.0,17.0,34.669433635000956,Moderada,12.070532718448717,0.1,False,Emparejada,Validación
+01-July-2019-73.jpg,2.0,6.0,17.0,20.16342335510004,Leve,2.0,11.0,17.0,12.669935092689201,Leve,7.493488262410839,0.5833333333333334,True,Emparejada,Validación
+01-July-2019-73.jpg,1.0,1.0,6.0,29.197190311853532,Moderada,1.0,1.0,11.0,18.88580324526069,Leve,10.311387066592843,0.5454545454545454,False,Emparejada,Validación
+01-July-2019-74.jpg,2.0,8.0,17.0,20.787821788738686,Leve,1.0,7.0,12.0,19.507602290271514,Leve,1.2802194984671722,0.45454545454545453,True,Emparejada,Calibración
+01-July-2019-74.jpg,1.0,6.0,8.0,5.0695300681148545,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Calibración
+01-July-2019-75.jpg,2.0,3.0,6.0,26.034851343143636,Moderada,1.0,5.0,13.0,6.194686952800235,Inferior al umbral de 10°,19.8401643903434,0.18181818181818182,False,Emparejada,Validación
+01-July-2019-75.jpg,1.0,1.0,3.0,7.043784361264851,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-76.jpg,1.0,7.0,17.0,17.395218104486382,Leve,1.0,8.0,17.0,13.813766033232055,Leve,3.5814520712543274,0.9090909090909091,True,Emparejada,Calibración
+01-July-2019-77.jpg,1.0,7.0,15.0,17.463802551480082,Leve,2.0,8.0,12.0,14.285849664370081,Leve,3.177952887110001,0.5555555555555556,True,Emparejada,Validación
+01-July-2019-77.jpg,2.0,15.0,17.0,7.302616653810004,Inferior al umbral de 10°,3.0,12.0,16.0,14.897732965439719,Leve,7.595116311629715,0.3333333333333333,False,Emparejada,Validación
+01-July-2019-77.jpg,,,,,,1.0,1.0,8.0,6.438770153644968,Inferior al umbral de 10°,,,,Referencia no detectada,Validación
+01-July-2019-78.jpg,1.0,1.0,5.0,47.85076336755414,Severa,1.0,1.0,5.0,25.19622943860563,Moderada,22.654533928948506,1.0,False,Emparejada,Validación
+01-July-2019-78.jpg,2.0,10.0,16.0,46.06337478889762,Severa,2.0,5.0,11.0,35.79089846586729,Moderada,10.272476323030325,0.16666666666666666,False,Emparejada,Validación
+01-July-2019-79.jpg,2.0,5.0,10.0,21.778429960698396,Leve,1.0,7.0,17.0,8.989019193648396,Inferior al umbral de 10°,12.78941076705,0.3076923076923077,False,Emparejada,Validación
+01-July-2019-79.jpg,1.0,2.0,5.0,9.782918761762962,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-8.jpg,3.0,13.0,17.0,23.277977677237025,Leve,2.0,11.0,17.0,12.22238567264222,Leve,11.055592004594805,0.7142857142857143,True,Emparejada,Validación
+01-July-2019-8.jpg,2.0,5.0,9.0,31.00540326718312,Moderada,1.0,5.0,11.0,25.358727181672585,Moderada,5.646676085510535,0.7142857142857143,True,Emparejada,Validación
+01-July-2019-8.jpg,1.0,2.0,5.0,28.74849284767068,Moderada,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-80.jpg,3.0,13.0,17.0,9.935649250929766,Inferior al umbral de 10°,3.0,14.0,17.0,14.166434882834984,Leve,4.230785631905219,0.8,False,Emparejada,Validación
+01-July-2019-80.jpg,2.0,8.0,11.0,25.45105192607053,Moderada,1.0,5.0,10.0,3.8559516688562683,Inferior al umbral de 10°,21.595100257214263,0.42857142857142855,False,Emparejada,Validación
+01-July-2019-80.jpg,1.0,1.0,4.0,8.888002067208175,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-80.jpg,,,,,,2.0,10.0,14.0,15.252858928309953,Leve,,,,Referencia no detectada,Validación
+01-July-2019-81.jpg,1.0,5.0,14.0,19.19092851762011,Leve,1.0,6.0,11.0,20.264567406634992,Leve,1.0736388890148802,0.6,True,Emparejada,Validación
+01-July-2019-81.jpg,2.0,14.0,17.0,4.752039951931009,Inferior al umbral de 10°,2.0,11.0,17.0,15.389184638250242,Leve,10.637144686319234,0.5714285714285714,False,Emparejada,Validación
+01-July-2019-82.jpg,2.0,12.0,16.0,15.691626589549568,Leve,3.0,11.0,15.0,22.3984652168589,Leve,6.706838627309331,0.6666666666666666,True,Emparejada,Validación
+01-July-2019-82.jpg,1.0,1.0,12.0,7.425152899754432,Inferior al umbral de 10°,1.0,1.0,7.0,7.564682053577246,Inferior al umbral de 10°,0.1395291538228145,0.5833333333333334,True,Emparejada,Validación
+01-July-2019-82.jpg,,,,,,2.0,7.0,11.0,16.841317420081307,Leve,,,,Referencia no detectada,Validación
+01-July-2019-83.jpg,2.0,8.0,17.0,27.077068507779078,Moderada,2.0,11.0,15.0,22.15850804608879,Leve,4.918560461690287,0.5,False,Emparejada,Calibración
+01-July-2019-83.jpg,1.0,1.0,8.0,29.776403896100796,Moderada,1.0,6.0,11.0,11.48145522625266,Leve,18.294948669848136,0.2727272727272727,False,Emparejada,Calibración
+01-July-2019-84.jpg,1.0,1.0,9.0,1.2880952993727526,Inferior al umbral de 10°,1.0,1.0,5.0,10.52465702693281,Leve,9.236561727560057,0.5555555555555556,False,Emparejada,Validación
+01-July-2019-84.jpg,2.0,9.0,14.0,23.112767048080634,Leve,3.0,11.0,17.0,29.379986625123802,Moderada,6.267219577043168,0.4444444444444444,False,Emparejada,Validación
+01-July-2019-84.jpg,,,,,,2.0,5.0,11.0,25.756766787826756,Moderada,,,,Referencia no detectada,Validación
+01-July-2019-85.jpg,3.0,14.0,17.0,12.592452375641745,Leve,2.0,13.0,17.0,19.49900649676055,Leve,6.9065541211188055,0.8,True,Emparejada,Calibración
+01-July-2019-85.jpg,1.0,6.0,12.0,8.800388704177836,Inferior al umbral de 10°,1.0,7.0,13.0,6.378939281123792,Inferior al umbral de 10°,2.421449423054044,0.75,True,Emparejada,Calibración
+01-July-2019-85.jpg,2.0,12.0,14.0,17.359810804104047,Leve,,,,,,,,,Automática sin referencia emparejada,Calibración
+01-July-2019-86.jpg,1.0,9.0,12.0,1.3667061229974617,Inferior al umbral de 10°,1.0,6.0,11.0,18.54825511739569,Leve,17.181548994398227,0.42857142857142855,False,Emparejada,Validación
+01-July-2019-86.jpg,,,,,,2.0,11.0,15.0,33.52822293137895,Moderada,,,,Referencia no detectada,Validación
+01-July-2019-87.jpg,2.0,11.0,17.0,28.93704541928576,Moderada,2.0,10.0,17.0,2.9494136632808936,Inferior al umbral de 10°,25.987631756004866,0.875,False,Emparejada,Validación
+01-July-2019-87.jpg,1.0,1.0,7.0,32.627490847942994,Moderada,1.0,6.0,10.0,11.925406389000374,Leve,20.702084458942622,0.2,False,Emparejada,Validación
+01-July-2019-88.jpg,3.0,14.0,17.0,12.2982829085087,Leve,2.0,14.0,17.0,6.454822075605802,Inferior al umbral de 10°,5.843460832902898,1.0,False,Emparejada,Validación
+01-July-2019-88.jpg,2.0,6.0,9.0,12.578326383469623,Leve,1.0,4.0,14.0,8.799103107430273,Inferior al umbral de 10°,3.7792232760393496,0.36363636363636365,False,Emparejada,Validación
+01-July-2019-88.jpg,1.0,1.0,6.0,14.51962197999499,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-89.jpg,1.0,6.0,17.0,38.11727555424919,Moderada,2.0,6.0,15.0,28.599829932829977,Moderada,9.517445621419213,0.8333333333333334,True,Emparejada,Calibración
+01-July-2019-89.jpg,,,,,,1.0,1.0,6.0,12.193972897937595,Leve,,,,Referencia no detectada,Calibración
+01-July-2019-9.jpg,2.0,13.0,17.0,24.259520597026796,Leve,2.0,10.0,17.0,18.40077498763159,Leve,5.858745609395207,0.625,True,Emparejada,Validación
+01-July-2019-9.jpg,1.0,5.0,13.0,41.33048574726027,Severa,1.0,4.0,10.0,12.334412523209949,Leve,28.99607322405032,0.6,False,Emparejada,Validación
+01-July-2019-90.jpg,1.0,1.0,12.0,40.142433966839086,Severa,1.0,6.0,13.0,19.312013496251637,Leve,20.83042047058745,0.5384615384615384,False,Emparejada,Validación
+01-July-2019-90.jpg,,,,,,2.0,13.0,17.0,3.31522925635168,Inferior al umbral de 10°,,,,Referencia no detectada,Validación
+01-July-2019-91.jpg,4.0,10.0,13.0,12.154222548468388,Leve,1.0,10.0,14.0,55.29459293985397,Severa,43.14037039138558,0.8,False,Emparejada,Validación
+01-July-2019-91.jpg,1.0,1.0,5.0,6.615699390360566,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-91.jpg,2.0,5.0,8.0,7.813386854346787,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-91.jpg,3.0,8.0,10.0,7.363142880274221,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-91.jpg,5.0,13.0,17.0,16.984651623536863,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-92.jpg,3.0,10.0,16.0,18.165541739496916,Leve,3.0,11.0,16.0,24.136495722570896,Leve,5.970953983073979,0.8571428571428571,True,Emparejada,Validación
+01-July-2019-92.jpg,1.0,1.0,5.0,1.1451621013755826,Inferior al umbral de 10°,1.0,1.0,6.0,12.50358377062997,Leve,11.358421669254387,0.8333333333333334,False,Emparejada,Validación
+01-July-2019-92.jpg,2.0,5.0,10.0,9.57787667900909,Inferior al umbral de 10°,2.0,6.0,11.0,19.32731130401678,Leve,9.74943462500769,0.7142857142857143,False,Emparejada,Validación
+01-July-2019-93.jpg,2.0,9.0,17.0,26.741307605272656,Moderada,2.0,11.0,16.0,25.286140883695857,Moderada,1.4551667215767985,0.6666666666666666,True,Emparejada,Calibración
+01-July-2019-93.jpg,1.0,1.0,9.0,47.48439334038979,Severa,1.0,6.0,11.0,31.67166848325713,Moderada,15.812724857132665,0.36363636363636365,False,Emparejada,Calibración
+01-July-2019-94.jpg,3.0,10.0,15.0,11.80330773971704,Leve,2.0,12.0,15.0,10.52802462187659,Leve,1.2752831178404502,0.6666666666666666,True,Emparejada,Validación
+01-July-2019-94.jpg,2.0,3.0,7.0,16.230688778129164,Leve,1.0,7.0,12.0,8.357467380705463,Inferior al umbral de 10°,7.8732213974237,0.1,False,Emparejada,Validación
+01-July-2019-94.jpg,1.0,1.0,3.0,2.1601194409148707,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-94.jpg,4.0,15.0,17.0,5.19871233759619,Inferior al umbral de 10°,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-95.jpg,1.0,8.0,17.0,11.2976596782491,Leve,1.0,8.0,15.0,22.72216090999173,Leve,11.424501231742628,0.8,True,Emparejada,Validación
+01-July-2019-96.jpg,1.0,3.0,9.0,27.595314522749185,Moderada,2.0,5.0,10.0,46.484733155799,Severa,18.889418633049814,0.625,False,Emparejada,Validación
+01-July-2019-96.jpg,,,,,,1.0,1.0,5.0,40.52017193253368,Severa,,,,Referencia no detectada,Validación
+01-July-2019-96.jpg,,,,,,3.0,10.0,17.0,21.429330516527145,Leve,,,,Referencia no detectada,Validación
+01-July-2019-97.jpg,2.0,9.0,15.0,23.943138675813636,Leve,3.0,11.0,17.0,14.301011300041639,Leve,9.642127375771997,0.5555555555555556,True,Emparejada,Validación
+01-July-2019-97.jpg,1.0,1.0,9.0,35.1821450514344,Moderada,1.0,1.0,5.0,12.586366495083215,Leve,22.59577855635118,0.5555555555555556,False,Emparejada,Validación
+01-July-2019-97.jpg,,,,,,2.0,5.0,11.0,21.911274931330563,Leve,,,,Referencia no detectada,Validación
+01-July-2019-98.jpg,1.0,2.0,11.0,14.238885556977426,Leve,1.0,1.0,13.0,18.077101899701084,Leve,3.8382163427236584,0.7692307692307693,True,Emparejada,Validación
+01-July-2019-98.jpg,4.0,15.0,17.0,9.068773986788766,Inferior al umbral de 10°,2.0,13.0,17.0,14.615631781526016,Leve,5.5468577947372495,0.6,False,Emparejada,Validación
+01-July-2019-98.jpg,2.0,11.0,13.0,17.461551854006416,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
+01-July-2019-98.jpg,3.0,13.0,15.0,15.735022650252068,Leve,,,,,,,,,Automática sin referencia emparejada,Validación
