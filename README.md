@@ -1,9 +1,9 @@
-# PSIB2026Q2-TPI-Jacob
+# PSIB2026Q2-TPI-Grupo06-Jacob
 
 **Caracterización automática de la escoliosis mediante análisis geométrico de radiografías de columna**
 
 Trabajo Práctico de Imágenes · 16.63 Procesamiento de Señales e Imágenes Biomédicas (ITBA) · 2026 Q2
-Grupo 6 · Martina Jacob (62649)
+Grupo 06 · Martina Jacob (62649)
 
 Pipeline en Python que estima el **ángulo de Cobb** en radiografías AP de columna completa y clasifica la gravedad de cada curva, usando únicamente procesamiento clásico de imágenes (sin aprendizaje automático). Se evalúa sobre las 98 radiografías de prueba del desafío AASCE/MICCAI 2019.
 
@@ -18,7 +18,7 @@ Pipeline en Python que estima el **ángulo de Cobb** en radiografías AP de colu
 
 | Archivo | Contenido |
 |---|---|
-| `PSIB2026Q2_TPI_Grupo6_Jacob.ipynb` | Notebook principal: exploración del dataset, pipeline paso a paso sobre una radiografía, interfaz interactiva, evaluación de las 98 imágenes y conclusiones. |
+| `PSIB2026Q2_TPI_Grupo06_Jacob.ipynb` | Notebook principal: exploración del dataset, pipeline paso a paso sobre una radiografía, interfaz interactiva, evaluación de las 98 imágenes y conclusiones. |
 | `cobb_pipeline.py` | Todas las etapas del procesamiento como funciones (ROI, realce, niveles vertebrales, eje, platillos, control de calidad, vértebras límite, Cobb), la lectura de las anotaciones de referencia, el emparejamiento de curvas y las métricas. |
 | `visualizacion.py` | Funciones que generan las figuras de cada etapa y del análisis de resultados. |
 | `resultados/` | CSV generados por el notebook (métricas, resultados por curva y por imagen, matriz de confusión). |
@@ -30,8 +30,8 @@ Pipeline en Python que estima el **ángulo de Cobb** en radiografías AP de colu
 Requiere Python ≥ 3.10.
 
 ```bash
-git clone https://github.com/martinajacob28/PSIB2026Q2-TPI-Jacob.git
-cd PSIB2026Q2-TPI-Jacob
+git clone https://github.com/martinajacob28/PSIB2026Q2-TPI-Grupo06-Jacob.git
+cd PSIB2026Q2-TPI-Grupo06-Jacob
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
@@ -40,13 +40,13 @@ pip install -r requirements.txt
 
 ### Google Colab (recomendado)
 
-1. Abrir `PSIB2026Q2_TPI_Grupo6_Jacob.ipynb` en Colab (*Archivo → Abrir notebook → GitHub* y pegar la URL del repositorio).
+1. Abrir `PSIB2026Q2_TPI_Grupo06_Jacob.ipynb` en Colab (*Archivo → Abrir notebook → GitHub* y pegar la URL del repositorio).
 2. *Entorno de ejecución → Ejecutar todas*. La primera celda clona el repositorio para tener los módulos `.py`, y la sección 2 descarga y descomprime el dataset (≈ 80 MB) automáticamente.
 
 ### Local
 
 ```bash
-jupyter notebook PSIB2026Q2_TPI_Grupo6_Jacob.ipynb
+jupyter notebook PSIB2026Q2_TPI_Grupo06_Jacob.ipynb
 ```
 
 El notebook descarga el dataset en `data/`. Si ya se tiene el `Archive.zip` del desafío, basta con dejarlo en la raíz del repositorio, o indicar otra carpeta con la variable de entorno `AASCE_DATA`.
