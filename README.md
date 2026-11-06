@@ -1,4 +1,4 @@
-# PSIB2026Q2-TPI-Grupo06-Jacob
+# PSIB2026Q2-TPI-Grupo6-Jacob
 
 **Caracterización automática de la escoliosis mediante análisis geométrico de radiografías de columna**
 
